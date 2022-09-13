@@ -84,6 +84,7 @@ Ich habe gelernt, wie man die Funktionen "try" und "catch" verwendet und wozu si
                 }
 
 ```
+Der Begriff "try" und die Klammern {} überpfüfen, ob es eine gültige Eingabe ( Zahl von 1-100) ist. Wenn dies nicht so ist, geht es weiter zu "catch" und den Klammern {}, dort folgt eine Fehlerausgabe. Das sorgt dafür, dass das Programm nicht einfach abbricht sondern eine Meldung gibt. Bei mir wäre das "Deine Eingabe ist ungültig!", danach wird man gefragt, ob man erneut spielen will. Somit bekommt man nochmals eine Chance anstatt von einem Abbruch.
 
 
 ## Verifikation
