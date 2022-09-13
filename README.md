@@ -12,7 +12,7 @@ Ich habe gelernt, wie man die Funktionen "try" und "catch" verwendet und wozu si
 
 ## Beschreibung
 
-Die Funktion "try" und "catch" ist Abfangmethode für Fehler. Es überprüft das Programm auf korrekte Eingaben. Wenn die Eingabe nicht korrekt ist, sorgt es dafür das es nicht abbricht und dem Spieler die Möglichkeit gibt, es nochmals zu versuchen. Als erstes kommt immer "try", das ist die oben erwähnte Überprüfung der Eingabe, wenn es korrekt ist geht das Programm wie vorgesehen weiter. Wenn es aber nicht korrekt ist, geht das Programm weiter zu "catch", das ist die Umgehung des Abbruchs und Weiterleitung zu der Fehlermeldung. Die Fehlermeldung soll den Spieler eine Nachricht ausgeben, dass die Eingabe falsch war. Ebenfalls soll es ihm die Möglichkeit geben, nochmals spielen zu können, also noch einen Versuch. Diese Abfangmethode war ein guter Ausbau des Spiels und hat es verbessert.
+Die Funktion "try" und "catch" ist Abfangmethode für Fehler. Es überprüft das Programm auf korrekte Eingaben. Wenn die Eingabe nicht korrekt ist, sorgt es dafür, dass es nicht abbricht und dem Spieler die Möglichkeit gibt, es nochmals zu versuchen. Als erstes kommt immer "try", das ist die oben erwähnte Überprüfung der Eingabe, wenn es korrekt ist geht das Programm wie vorgesehen weiter. Wenn es aber nicht korrekt ist, geht das Programm weiter zu "catch", das ist die Umgehung des Abbruchs und Weiterleitung zu der Fehlermeldung. Die Fehlermeldung soll den Spieler eine Nachricht ausgeben, dass die Eingabe falsch war. Ebenfalls soll es ihm die Möglichkeit geben, nochmals spielen zu können, also noch einen Versuch. Diese Abfangmethode war ein guter Ausbau des Spiels und hat es verbessert.
 
 ![grafik](https://user-images.githubusercontent.com/110892351/189845032-318f0b8e-c77b-4906-b1d8-6101fe5f4366.png)
 (Demonstrierung einer ungültigen Eingabe und der dazu programmierten Fehlermeldung)
@@ -88,13 +88,13 @@ Der Begriff "try" und die Klammern {} überpfüfen, ob es eine gültige Eingabe 
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Ich habe einen zusammenfassenden Text über die Funktion geschrieben. Dann habe ich noch ein Bild eingefügt und in einem kurzen Satz beschrieben, was man dort sieht. Als letzten Nachweis habe ich einen Code-Fetzen eingefügt und gut dokumentiert, sodass es verständlich ist.
 
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+Ich habe anstatt immer mit anderen zusammen, jetzt gelernt mir selber zu helfen, wenn ich nicht weiterkomme. Ich habe selbstständig gearbeitet und konnte somit meine Fähigkeiten testen und ausbauen.
 
-👎 und etwas, was nicht gut lief.
+Manchmal war ich überfordert und wusste nicht weiter, auch wenn ich mir dann helfen konnte, brauchte ich meist einen Moment bis ich mich wieder motivieren konnte. Ich weiss aber, dass man in der Informatik sehr viel ausprobieren muss und somit auch viel scheitern wird.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: In Zukunft werde ich versuchen mich daran zu erinnern, dass es normal ist zu scheitern und es Teil des Prozesses ist.
 
